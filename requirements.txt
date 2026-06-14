@@ -1,0 +1,8 @@
+Django
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+google-generativeai
+gunicorn
